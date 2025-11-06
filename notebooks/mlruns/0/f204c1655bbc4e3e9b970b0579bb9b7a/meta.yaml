@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Christian/Documents/proyecto%20final%20mlops/notebooks/mlruns/0/f204c1655bbc4e3e9b970b0579bb9b7a/artifacts
+end_time: 1762455289924
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f204c1655bbc4e3e9b970b0579bb9b7a
+run_name: rare-carp-322
+run_uuid: f204c1655bbc4e3e9b970b0579bb9b7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762455289584
+status: 3
+tags: []
+user_id: Christian

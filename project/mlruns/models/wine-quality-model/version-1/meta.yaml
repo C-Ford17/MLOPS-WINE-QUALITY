@@ -1,0 +1,15 @@
+creation_timestamp: 1762457028590
+current_stage: Production
+deployment_job_state: null
+description: ''
+last_updated_timestamp: 1762457057025
+model_id: m-5280250ffecc44988c1d27046c302e68
+name: wine-quality-model
+run_id: 02ed7054ed8f454abb94a603106444c7
+run_link: ''
+source: file:///C:/Users/Christian/Documents/proyecto%20final%20mlops/project/mlruns/0/models/m-5280250ffecc44988c1d27046c302e68/artifacts
+status: READY
+status_message: null
+storage_location: file:///C:/Users/Christian/Documents/proyecto%20final%20mlops/project/mlruns/0/models/m-5280250ffecc44988c1d27046c302e68/artifacts
+user_id: null
+version: 1

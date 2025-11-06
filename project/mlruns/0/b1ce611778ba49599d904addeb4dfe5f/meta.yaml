@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Christian/Documents/proyecto%20final%20mlops/project/mlruns/0/b1ce611778ba49599d904addeb4dfe5f/artifacts
+end_time: 1762459120873
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b1ce611778ba49599d904addeb4dfe5f
+run_name: bold-jay-602
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762459120832
+status: 3
+tags: []
+user_id: Christian

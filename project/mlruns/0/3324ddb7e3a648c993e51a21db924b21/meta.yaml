@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Christian/Documents/proyecto%20final%20mlops/project/mlruns/0/3324ddb7e3a648c993e51a21db924b21/artifacts
+end_time: 1762458839762
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3324ddb7e3a648c993e51a21db924b21
+run_name: rebellious-mouse-736
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762458839722
+status: 3
+tags: []
+user_id: Christian

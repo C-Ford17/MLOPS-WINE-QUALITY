@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Christian/Documents/proyecto%20final%20mlops/notebooks/mlruns/0/3092b63a47214a96922d4a1e988e582a/artifacts
+end_time: 1762455290124
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3092b63a47214a96922d4a1e988e582a
+run_name: whimsical-fish-71
+run_uuid: 3092b63a47214a96922d4a1e988e582a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762455289928
+status: 3
+tags: []
+user_id: Christian

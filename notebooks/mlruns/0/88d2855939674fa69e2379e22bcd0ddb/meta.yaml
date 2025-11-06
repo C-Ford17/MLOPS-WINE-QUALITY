@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Christian/Documents/proyecto%20final%20mlops/notebooks/mlruns/0/88d2855939674fa69e2379e22bcd0ddb/artifacts
+end_time: 1762455290395
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 88d2855939674fa69e2379e22bcd0ddb
+run_name: bemused-grouse-13
+run_uuid: 88d2855939674fa69e2379e22bcd0ddb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762455290128
+status: 3
+tags: []
+user_id: Christian

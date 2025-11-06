@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Christian/Documents/proyecto%20final%20mlops/project/mlruns/0/dc05a3c421834d13adc80fc53ecd2a43/artifacts
+end_time: 1762457957771
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dc05a3c421834d13adc80fc53ecd2a43
+run_name: ambitious-wasp-49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762457940091
+status: 3
+tags: []
+user_id: Christian

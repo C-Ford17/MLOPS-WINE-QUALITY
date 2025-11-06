@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Christian/Documents/proyecto%20final%20mlops/project/mlruns/0/models/m-5280250ffecc44988c1d27046c302e68/artifacts
+creation_timestamp: 1762456502798
+experiment_id: '0'
+last_updated_timestamp: 1762456505725
+model_id: m-5280250ffecc44988c1d27046c302e68
+model_type: null
+name: model
+source_run_id: 02ed7054ed8f454abb94a603106444c7
+status: 2
+status_message: null

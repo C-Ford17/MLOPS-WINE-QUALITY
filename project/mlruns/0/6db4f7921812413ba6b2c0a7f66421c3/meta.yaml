@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Christian/Documents/proyecto%20final%20mlops/project/mlruns/0/6db4f7921812413ba6b2c0a7f66421c3/artifacts
+end_time: 1762456425917
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6db4f7921812413ba6b2c0a7f66421c3
+run_name: masked-sheep-770
+run_uuid: 6db4f7921812413ba6b2c0a7f66421c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762456358533
+status: 4
+tags: []
+user_id: Christian

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Christian/Documents/proyecto%20final%20mlops/project/mlruns/0/02ed7054ed8f454abb94a603106444c7/artifacts
+end_time: 1762456505738
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 02ed7054ed8f454abb94a603106444c7
+run_name: indecisive-croc-715
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762456496159
+status: 3
+tags: []
+user_id: Christian

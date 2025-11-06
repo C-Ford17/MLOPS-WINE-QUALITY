@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Christian/Documents/proyecto%20final%20mlops/notebooks/mlruns/0/15b65eade86b4fec8b28f3058b336ba8/artifacts
+end_time: 1762455290919
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 15b65eade86b4fec8b28f3058b336ba8
+run_name: secretive-carp-299
+run_uuid: 15b65eade86b4fec8b28f3058b336ba8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762455290399
+status: 3
+tags: []
+user_id: Christian
