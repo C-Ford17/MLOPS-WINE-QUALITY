@@ -1,0 +1,27 @@
+# Virtual environment
+venv/
+.env
+
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints
+
+# MLflow runs and artifacts (si prefieres no subir resultados)
+mlruns/
+
+# Logs
+*.log
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# System files
+.DS_Store
+Thumbs.db
